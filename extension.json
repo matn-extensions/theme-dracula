@@ -1,0 +1,10 @@
+{
+  "id": "matn.theme.dracula",
+  "name": "Dracula Theme",
+  "version": "1.0.0",
+  "author": "Matn Team",
+  "description": "Famous dark theme with vibrant purple and pink accents for developers",
+  "category": "themes",
+  "type": "theme",
+  "repository": "https://github.com/matn-extensions/theme-dracula"
+}

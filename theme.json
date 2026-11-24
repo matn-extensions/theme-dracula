@@ -1,0 +1,16 @@
+{
+  "name": "Dracula",
+  "type": "dark",
+  "author": "Matn Team",
+  "version": "1.0.0",
+  "colors": {
+    "bg": "#282A36",
+    "barBg": "#21222C",
+    "text": "#F8F8F2",
+    "muted": "#6272A4",
+    "accent": "#BD93F9",
+    "activeLine": "#44475A",
+    "cursor": "#FF79C6",
+    "border": "#6272A4"
+  }
+}
